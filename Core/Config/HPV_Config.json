@@ -1,0 +1,167 @@
+[
+    {
+        "Name": "MILLY",
+        "URL": "https://tg-app.memefi.club/#tgWebAppData=query_id%3DAAGZDCsfAwAAAJkMKx8gutSs%26user%3D%257B%2522id%2522%253A6965365913%252C%2522first_name%2522%253A%2522milly%2522%252C%2522last_name%2522%253A%2522bingu%25F0%259F%25A6%25B4%2522%252C%2522username%2522%253A%2522mbbingu%2522%252C%2522language_code%2522%253A%2522en%2522%252C%2522allows_write_to_pm%2522%253Atrue%257D%26auth_date%3D1726835361%26hash%3Ddde87f93be74aa1a7a6baa78595698296641b79bb29e794f7eebfd61e109a43f&tgWebAppVersion=7.10&tgWebAppPlatform=android&tgWebAppThemeParams=%7B%22bg_color%22%3A%22%23212d3b%22%2C%22section_bg_color%22%3A%22%231d2733%22%2C%22secondary_bg_color%22%3A%22%23151e27%22%2C%22text_color%22%3A%22%23ffffff%22%2C%22hint_color%22%3A%22%237d8b99%22%2C%22link_color%22%3A%22%235eabe1%22%2C%22button_color%22%3A%22%2350a8eb%22%2C%22button_text_color%22%3A%22%23ffffff%22%2C%22header_bg_color%22%3A%22%23242d39%22%2C%22accent_text_color%22%3A%22%2364b5ef%22%2C%22section_header_text_color%22%3A%22%2379c4fc%22%2C%22subtitle_text_color%22%3A%22%237b8790%22%2C%22destructive_text_color%22%3A%22%23ee686f%22%2C%22section_separator_color%22%3A%22%230d1218%22%2C%22bottom_bar_bg_color%22%3A%22%23151e27%22%7D",
+        "Proxy": {
+            "http": "socks5://stwajhwx:tmrt92jg3099@154.36.110.199:6853",
+            "https": "socks5://stwajhwx:tmrt92jg3099@154.36.110.199:6853"
+        },
+        "Headers": {
+            "USER_AGENT": "Mozilla/5.0 (Linux; Android 13; Realme GT Neo 3T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.71 Mobile Safari/537.36",
+            "SEC_CH_UA": "\"Chromium\";v=\"126\", \"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"126\"",
+            "SEC_CH_UA_MOBILE": "?1",
+            "SEC_CH_UA_PLATFORM": "\"Android\"",
+            "X_REQUESTED_WITH": "org.telegram.messenger"
+        }
+    },
+    {
+        "Name": "JAMIE",
+        "URL": "https://tg-app.memefi.club/#tgWebAppData=query_id%3DAAHueLx9AgAAAO54vH28Z9Z5%26user%3D%257B%2522id%2522%253A6404471022%252C%2522first_name%2522%253A%2522jamie%2522%252C%2522last_name%2522%253A%2522%25F0%259F%25A6%25B4%2522%252C%2522username%2522%253A%2522starkjamie%2522%252C%2522language_code%2522%253A%2522en%2522%252C%2522allows_write_to_pm%2522%253Atrue%257D%26auth_date%3D1726821201%26hash%3D0461fad825643ef55d55d4c62dc0c30075b69fa9167de0e96998909b29717323&tgWebAppVersion=7.10&tgWebAppPlatform=android&tgWebAppThemeParams=%7B%22bg_color%22%3A%22%23212d3b%22%2C%22section_bg_color%22%3A%22%231d2733%22%2C%22secondary_bg_color%22%3A%22%23151e27%22%2C%22text_color%22%3A%22%23ffffff%22%2C%22hint_color%22%3A%22%237d8b99%22%2C%22link_color%22%3A%22%235eabe1%22%2C%22button_color%22%3A%22%2350a8eb%22%2C%22button_text_color%22%3A%22%23ffffff%22%2C%22header_bg_color%22%3A%22%23242d39%22%2C%22accent_text_color%22%3A%22%2364b5ef%22%2C%22section_header_text_color%22%3A%22%2379c4fc%22%2C%22subtitle_text_color%22%3A%22%237b8790%22%2C%22destructive_text_color%22%3A%22%23ee686f%22%2C%22section_separator_color%22%3A%22%230d1218%22%2C%22bottom_bar_bg_color%22%3A%22%23151e27%22%7D",
+        "Proxy": {
+            "http": "socks5://stwajhwx:tmrt92jg3099@198.105.101.92:5721",
+            "https": "socks5://stwajhwx:tmrt92jg3099@198.105.101.92:5721"
+        },
+        "Headers": {
+            "USER_AGENT": "Mozilla/5.0 (Linux; Android 12; Realme Pad Mini) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.53 Mobile Safari/537.36",
+            "SEC_CH_UA": "\"Chromium\";v=\"125\", \"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"125\"",
+            "SEC_CH_UA_MOBILE": "?1",
+            "SEC_CH_UA_PLATFORM": "\"Android\"",
+            "X_REQUESTED_WITH": "org.telegram.messenger"
+        }
+    },
+    {
+        "Name": "OPE",
+        "URL": "https://tg-app.memefi.club/#tgWebAppData=query_id%3DAAGbSVV3AgAAAJtJVXcltA2T%26user%3D%257B%2522id%2522%253A6297045403%252C%2522first_name%2522%253A%2522Opeyemi%2522%252C%2522last_name%2522%253A%2522Oyeniyi%2522%252C%2522username%2522%253A%2522Dsdsah%2522%252C%2522language_code%2522%253A%2522en%2522%252C%2522allows_write_to_pm%2522%253Atrue%257D%26auth_date%3D1726835660%26hash%3Df96df3faa1d646edcd66fc54b2b03932f5e7c626bb9f95ba383b605df29a4a84&tgWebAppVersion=7.10&tgWebAppPlatform=android&tgWebAppThemeParams=%7B%22bg_color%22%3A%22%23212d3b%22%2C%22section_bg_color%22%3A%22%231d2733%22%2C%22secondary_bg_color%22%3A%22%23151e27%22%2C%22text_color%22%3A%22%23ffffff%22%2C%22hint_color%22%3A%22%237d8b99%22%2C%22link_color%22%3A%22%235eabe1%22%2C%22button_color%22%3A%22%2350a8eb%22%2C%22button_text_color%22%3A%22%23ffffff%22%2C%22header_bg_color%22%3A%22%23242d39%22%2C%22accent_text_color%22%3A%22%2364b5ef%22%2C%22section_header_text_color%22%3A%22%2379c4fc%22%2C%22subtitle_text_color%22%3A%22%237b8790%22%2C%22destructive_text_color%22%3A%22%23ee686f%22%2C%22section_separator_color%22%3A%22%230d1218%22%2C%22bottom_bar_bg_color%22%3A%22%23151e27%22%7D",
+        "Proxy": {
+            "http": "socks5://stwajhwx:tmrt92jg3099@207.244.217.165:6712",
+            "https": "socks5://stwajhwx:tmrt92jg3099@207.244.217.165:6712"
+        },
+        "Headers": {
+            "USER_AGENT": "Mozilla/5.0 (Linux; Android 11; Samsung Galaxy A25) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.113 Mobile Safari/537.36",
+            "SEC_CH_UA": "\"Chromium\";v=\"125\", \"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"125\"",
+            "SEC_CH_UA_MOBILE": "?1",
+            "SEC_CH_UA_PLATFORM": "\"Android\"",
+            "X_REQUESTED_WITH": "ir.ilmili.telegraph"
+        }
+    },
+    {
+        "Name": "GABRIEL",
+        "URL": "https://tg-app.memefi.club/#tgWebAppData=query_id%3DAAGb2gsWAwAAAJvaCxaKjPNi%26user%3D%257B%2522id%2522%253A6812326555%252C%2522first_name%2522%253A%2522Gabriel%2522%252C%2522last_name%2522%253A%2522Imba%25F0%259F%25A6%25B4%2522%252C%2522username%2522%253A%2522gbrknig%2522%252C%2522language_code%2522%253A%2522en%2522%252C%2522allows_write_to_pm%2522%253Atrue%257D%26auth_date%3D1726835430%26hash%3D300f8f776f023902503a6dbfac7096d844d1df0bddc090fa850d339add349ea4&tgWebAppVersion=7.10&tgWebAppPlatform=android&tgWebAppThemeParams=%7B%22bg_color%22%3A%22%23212d3b%22%2C%22section_bg_color%22%3A%22%231d2733%22%2C%22secondary_bg_color%22%3A%22%23151e27%22%2C%22text_color%22%3A%22%23ffffff%22%2C%22hint_color%22%3A%22%237d8b99%22%2C%22link_color%22%3A%22%235eabe1%22%2C%22button_color%22%3A%22%2350a8eb%22%2C%22button_text_color%22%3A%22%23ffffff%22%2C%22header_bg_color%22%3A%22%23242d39%22%2C%22accent_text_color%22%3A%22%2364b5ef%22%2C%22section_header_text_color%22%3A%22%2379c4fc%22%2C%22subtitle_text_color%22%3A%22%237b8790%22%2C%22destructive_text_color%22%3A%22%23ee686f%22%2C%22section_separator_color%22%3A%22%230d1218%22%2C%22bottom_bar_bg_color%22%3A%22%23151e27%22%7D",
+        "Proxy": {
+            "http": "socks5://stwajhwx:tmrt92jg3099@206.41.172.74:6634",
+            "https": "socks5://stwajhwx:tmrt92jg3099@206.41.172.74:6634"
+        },
+        "Headers": {
+            "USER_AGENT": "Mozilla/5.0 (Linux; Android 14; Samsung Galaxy S22+) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.106 Mobile Safari/537.36",
+            "SEC_CH_UA": "\"Chromium\";v=\"122\", \"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"122\"",
+            "SEC_CH_UA_MOBILE": "?1",
+            "SEC_CH_UA_PLATFORM": "\"Android\"",
+            "X_REQUESTED_WITH": "org.telegram.plus"
+        }
+    },
+    {
+        "Name": "CHARLES",
+        "URL": "https://tg-app.memefi.club/#tgWebAppData=query_id%3DAAGQqqh5AgAAAJCqqHnGR9FD%26user%3D%257B%2522id%2522%253A6336064144%252C%2522first_name%2522%253A%2522Bat%2522%252C%2522last_name%2522%253A%2522Yaks%2522%252C%2522language_code%2522%253A%2522en%2522%252C%2522allows_write_to_pm%2522%253Atrue%257D%26auth_date%3D1726835734%26hash%3D5bb838b9226fd15cc21735fdb1fceb94ff0d3327bc158d432db64efadbab5022&tgWebAppVersion=7.10&tgWebAppPlatform=android&tgWebAppThemeParams=%7B%22bg_color%22%3A%22%23212d3b%22%2C%22section_bg_color%22%3A%22%231d2733%22%2C%22secondary_bg_color%22%3A%22%23151e27%22%2C%22text_color%22%3A%22%23ffffff%22%2C%22hint_color%22%3A%22%237d8b99%22%2C%22link_color%22%3A%22%235eabe1%22%2C%22button_color%22%3A%22%2350a8eb%22%2C%22button_text_color%22%3A%22%23ffffff%22%2C%22header_bg_color%22%3A%22%23242d39%22%2C%22accent_text_color%22%3A%22%2364b5ef%22%2C%22section_header_text_color%22%3A%22%2379c4fc%22%2C%22subtitle_text_color%22%3A%22%237b8790%22%2C%22destructive_text_color%22%3A%22%23ee686f%22%2C%22section_separator_color%22%3A%22%230d1218%22%2C%22bottom_bar_bg_color%22%3A%22%23151e27%22%7D",
+        "Proxy": {
+            "http": "socks5://stwajhwx:tmrt92jg3099@64.64.118.149:6732",
+            "https": "socks5://stwajhwx:tmrt92jg3099@64.64.118.149:6732"
+        },
+        "Headers": {
+            "USER_AGENT": "Mozilla/5.0 (Linux; Android 12; Realme C63) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.40 Mobile Safari/537.36",
+            "SEC_CH_UA": "\"Chromium\";v=\"123\", \"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"123\"",
+            "SEC_CH_UA_MOBILE": "?1",
+            "SEC_CH_UA_PLATFORM": "\"Android\"",
+            "X_REQUESTED_WITH": "org.telegram.messenger"
+        }
+    },
+    {
+        "Name": "BILLY",
+        "URL": "https://tg-app.memefi.club/#tgWebAppData=query_id%3DAAFmkmscAwAAAGaSaxzPfX0W%26user%3D%257B%2522id%2522%253A6919262822%252C%2522first_name%2522%253A%2522billy%2522%252C%2522last_name%2522%253A%2522%25F0%259F%25A6%25B4%2522%252C%2522username%2522%253A%2522billingman%2522%252C%2522language_code%2522%253A%2522en%2522%252C%2522allows_write_to_pm%2522%253Atrue%257D%26auth_date%3D1726835120%26hash%3D017829305756c494720f6a2ab6d718469d798e95c840efac94701a5094d8331f&tgWebAppVersion=7.10&tgWebAppPlatform=android&tgWebAppThemeParams=%7B%22bg_color%22%3A%22%23212d3b%22%2C%22section_bg_color%22%3A%22%231d2733%22%2C%22secondary_bg_color%22%3A%22%23151e27%22%2C%22text_color%22%3A%22%23ffffff%22%2C%22hint_color%22%3A%22%237d8b99%22%2C%22link_color%22%3A%22%235eabe1%22%2C%22button_color%22%3A%22%2350a8eb%22%2C%22button_text_color%22%3A%22%23ffffff%22%2C%22header_bg_color%22%3A%22%23242d39%22%2C%22accent_text_color%22%3A%22%2364b5ef%22%2C%22section_header_text_color%22%3A%22%2379c4fc%22%2C%22subtitle_text_color%22%3A%22%237b8790%22%2C%22destructive_text_color%22%3A%22%23ee686f%22%2C%22section_separator_color%22%3A%22%230d1218%22%2C%22bottom_bar_bg_color%22%3A%22%23151e27%22%7D",
+        "Proxy": {
+            "http": "socks5://stwajhwx:tmrt92jg3099@104.239.105.125:6655",
+            "https": "socks5://stwajhwx:tmrt92jg3099@104.239.105.125:6655"
+        },
+        "Headers": {
+            "USER_AGENT": "Mozilla/5.0 (Linux; Android 14; Realme C55) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.120 Mobile Safari/537.36",
+            "SEC_CH_UA": "\"Chromium\";v=\"123\", \"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"123\"",
+            "SEC_CH_UA_MOBILE": "?1",
+            "SEC_CH_UA_PLATFORM": "\"Android\"",
+            "X_REQUESTED_WITH": "org.telegram.messenger"
+        }
+    },
+    {
+        "Name": "ADE",
+        "URL": "",
+        "Proxy": {
+            "http": "socks5://stwajhwx:tmrt92jg3099@204.44.69.89:6342",
+            "https": "socks5://stwajhwx:tmrt92jg3099@204.44.69.89:6342"
+        },
+        "Headers": {
+            "USER_AGENT": "Mozilla/5.0 (Linux; Android 13; Xiaomi Poco M6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.81 Mobile Safari/537.36",
+            "SEC_CH_UA": "\"Chromium\";v=\"123\", \"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"123\"",
+            "SEC_CH_UA_MOBILE": "?1",
+            "SEC_CH_UA_PLATFORM": "\"Android\"",
+            "X_REQUESTED_WITH": "org.telegram.plus"
+        }
+    },
+    {
+        "Name": "MONGO",
+        "URL": "https://tg-app.memefi.club/#tgWebAppData=query_id%3DAAGYqfIXAwAAAJip8hf22w4N%26user%3D%257B%2522id%2522%253A6844230040%252C%2522first_name%2522%253A%2522mongo%2522%252C%2522last_name%2522%253A%2522%25F0%259F%25A6%25B4%2522%252C%2522username%2522%253A%2522mongodark%2522%252C%2522language_code%2522%253A%2522en%2522%252C%2522allows_write_to_pm%2522%253Atrue%257D%26auth_date%3D1726831789%26hash%3De7e7177dadf9c2a936989af7458df9fbad7f76135e89befe03a72c9c9b21a84d&tgWebAppVersion=7.10&tgWebAppPlatform=android&tgWebAppThemeParams=%7B%22bg_color%22%3A%22%23212d3b%22%2C%22section_bg_color%22%3A%22%231d2733%22%2C%22secondary_bg_color%22%3A%22%23151e27%22%2C%22text_color%22%3A%22%23ffffff%22%2C%22hint_color%22%3A%22%237d8b99%22%2C%22link_color%22%3A%22%235eabe1%22%2C%22button_color%22%3A%22%2350a8eb%22%2C%22button_text_color%22%3A%22%23ffffff%22%2C%22header_bg_color%22%3A%22%23242d39%22%2C%22accent_text_color%22%3A%22%2364b5ef%22%2C%22section_header_text_color%22%3A%22%2379c4fc%22%2C%22subtitle_text_color%22%3A%22%237b8790%22%2C%22destructive_text_color%22%3A%22%23ee686f%22%2C%22section_separator_color%22%3A%22%230d1218%22%2C%22bottom_bar_bg_color%22%3A%22%23151e27%22%7D",
+        "Proxy": {
+            "http": "socks5://stwajhwx:tmrt92jg3099@167.160.180.203:6754",
+            "https": "socks5://stwajhwx:tmrt92jg3099@167.160.180.203:6754"
+        },
+        "Headers": {
+            "USER_AGENT": "Mozilla/5.0 (Linux; Android 12; vivo Y36) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.82 Mobile Safari/537.36",
+            "SEC_CH_UA": "\"Chromium\";v=\"124\", \"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"124\"",
+            "SEC_CH_UA_MOBILE": "?1",
+            "SEC_CH_UA_PLATFORM": "\"Android\"",
+            "X_REQUESTED_WITH": "org.telegram.messenger"
+        }
+    },
+    {
+        "Name": "GIDEON",
+        "URL": "https://tg-app.memefi.club/#tgWebAppData=query_id%3DAAEFM3wSAwAAAAUzfBKjkgoe%26user%3D%257B%2522id%2522%253A6752580357%252C%2522first_name%2522%253A%2522%25F0%259F%25A6%25B4%25F0%259F%2590%25B5%25F0%259F%25A6%2589%25F0%259F%2590%25A4%2520Gideon%2520Gra-Gra%2522%252C%2522last_name%2522%253A%2522Philemon%2520%25F0%259F%258D%2585%25F0%259F%2586%2593%2522%252C%2522username%2522%253A%2522gidphilemon%2522%252C%2522language_code%2522%253A%2522en%2522%252C%2522allows_write_to_pm%2522%253Atrue%257D%26auth_date%3D1726835548%26hash%3D0fcc8d9e0687921c4933679a5e8a47cde1fabd4c0124c94f216c87ad0ec088d4&tgWebAppVersion=7.10&tgWebAppPlatform=android&tgWebAppThemeParams=%7B%22bg_color%22%3A%22%23212d3b%22%2C%22section_bg_color%22%3A%22%231d2733%22%2C%22secondary_bg_color%22%3A%22%23151e27%22%2C%22text_color%22%3A%22%23ffffff%22%2C%22hint_color%22%3A%22%237d8b99%22%2C%22link_color%22%3A%22%235eabe1%22%2C%22button_color%22%3A%22%2350a8eb%22%2C%22button_text_color%22%3A%22%23ffffff%22%2C%22header_bg_color%22%3A%22%23242d39%22%2C%22accent_text_color%22%3A%22%2364b5ef%22%2C%22section_header_text_color%22%3A%22%2379c4fc%22%2C%22subtitle_text_color%22%3A%22%237b8790%22%2C%22destructive_text_color%22%3A%22%23ee686f%22%2C%22section_separator_color%22%3A%22%230d1218%22%2C%22bottom_bar_bg_color%22%3A%22%23151e27%22%7D",
+        "Proxy": {
+            "http": "socks5://stwajhwx:tmrt92jg3099@38.154.227.167:5868",
+            "https": "socks5://stwajhwx:tmrt92jg3099@38.154.227.167:5868"
+        },
+        "Headers": {
+            "USER_AGENT": "Mozilla/5.0 (Linux; Android 12; Samsung Galaxy A14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.120 Mobile Safari/537.36",
+            "SEC_CH_UA": "\"Chromium\";v=\"122\", \"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"122\"",
+            "SEC_CH_UA_MOBILE": "?1",
+            "SEC_CH_UA_PLATFORM": "\"Android\"",
+            "X_REQUESTED_WITH": "org.telegram.messenger"
+        }
+    },
+    {
+        "Name": "FREEDOM",
+        "URL": "https://tg-app.memefi.club/#tgWebAppData=query_id%3DAAFBiIh9AgAAAEGIiH26jYmi%26user%3D%257B%2522id%2522%253A6401067073%252C%2522first_name%2522%253A%2522Freedom%2522%252C%2522last_name%2522%253A%2522Ibong%25F0%259F%25A6%25B4%2522%252C%2522username%2522%253A%2522freeoneonspace%2522%252C%2522language_code%2522%253A%2522en%2522%252C%2522allows_write_to_pm%2522%253Atrue%257D%26auth_date%3D1726835491%26hash%3Defb43799c48530b54bfb5fb07da55cdcc0e85533611852cf15ac58e5e36a5288&tgWebAppVersion=7.10&tgWebAppPlatform=android&tgWebAppThemeParams=%7B%22bg_color%22%3A%22%23212d3b%22%2C%22section_bg_color%22%3A%22%231d2733%22%2C%22secondary_bg_color%22%3A%22%23151e27%22%2C%22text_color%22%3A%22%23ffffff%22%2C%22hint_color%22%3A%22%237d8b99%22%2C%22link_color%22%3A%22%235eabe1%22%2C%22button_color%22%3A%22%2350a8eb%22%2C%22button_text_color%22%3A%22%23ffffff%22%2C%22header_bg_color%22%3A%22%23242d39%22%2C%22accent_text_color%22%3A%22%2364b5ef%22%2C%22section_header_text_color%22%3A%22%2379c4fc%22%2C%22subtitle_text_color%22%3A%22%237b8790%22%2C%22destructive_text_color%22%3A%22%23ee686f%22%2C%22section_separator_color%22%3A%22%230d1218%22%2C%22bottom_bar_bg_color%22%3A%22%23151e27%22%7D",
+        "Proxy": {
+            "http": "socks5://stwajhwx:tmrt92jg3099@38.154.227.167:5868",
+            "https": "socks5://stwajhwx:tmrt92jg3099@38.154.227.167:5868"
+        },
+        "Headers": {
+            "USER_AGENT": "Mozilla/5.0 (Linux; Android 14; Xiaomi Poco F5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.72 Mobile Safari/537.36",
+            "SEC_CH_UA": "\"Chromium\";v=\"126\", \"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"126\"",
+            "SEC_CH_UA_MOBILE": "?1",
+            "SEC_CH_UA_PLATFORM": "\"Android\"",
+            "X_REQUESTED_WITH": "org.telegram.plus"
+        }
+    },
+    {
+        "Name": "GRAND",
+        "URL": "https://tg-app.memefi.club/#tgWebAppData=query_id%3DAAG_ac1PAAAAAL9pzU-OiTIF%26user%3D%257B%2522id%2522%253A1338862015%252C%2522first_name%2522%253A%2522Grand%2522%252C%2522last_name%2522%253A%2522%25F0%259F%25A6%25B4%2522%252C%2522username%2522%253A%2522Grand_Intellect%2522%252C%2522language_code%2522%253A%2522en%2522%252C%2522allows_write_to_pm%2522%253Atrue%257D%26auth_date%3D1726835817%26hash%3D973309daeea5b0ef2b2afd1efdd30a94ccff48ee27cec5f6a7efc8becaeb4fd6&tgWebAppVersion=7.10&tgWebAppPlatform=android&tgWebAppThemeParams=%7B%22bg_color%22%3A%22%23212d3b%22%2C%22section_bg_color%22%3A%22%231d2733%22%2C%22secondary_bg_color%22%3A%22%23151e27%22%2C%22text_color%22%3A%22%23ffffff%22%2C%22hint_color%22%3A%22%237d8b99%22%2C%22link_color%22%3A%22%235eabe1%22%2C%22button_color%22%3A%22%2350a8eb%22%2C%22button_text_color%22%3A%22%23ffffff%22%2C%22header_bg_color%22%3A%22%23242d39%22%2C%22accent_text_color%22%3A%22%2364b5ef%22%2C%22section_header_text_color%22%3A%22%2379c4fc%22%2C%22subtitle_text_color%22%3A%22%237b8790%22%2C%22destructive_text_color%22%3A%22%23ee686f%22%2C%22section_separator_color%22%3A%22%230d1218%22%2C%22bottom_bar_bg_color%22%3A%22%23151e27%22%7D",
+        "Proxy": {
+            "http": "socks5://stwajhwx:tmrt92jg3099@38.154.227.167:5868",
+            "https": "socks5://stwajhwx:tmrt92jg3099@38.154.227.167:5868"
+        },
+        "Headers": {
+            "USER_AGENT": "Mozilla/5.0 (Linux; Android 14; Infinix Hot 30i) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.120 Mobile Safari/537.36",
+            "SEC_CH_UA": "\"Chromium\";v=\"123\", \"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"123\"",
+            "SEC_CH_UA_MOBILE": "?1",
+            "SEC_CH_UA_PLATFORM": "\"Android\"",
+            "X_REQUESTED_WITH": "ir.ilmili.telegraph"
+        }
+    }
+]
